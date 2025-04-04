@@ -2,6 +2,7 @@
 
 ### 📌 **Project Description**  
 The **Movie Recommendation System** suggests movies to users based on their preferences, including rating and genre. Users can also save recommendations and rate movies along with saving them.  
+(only for Telugu movies and hollywood movies, Remaining languages coming soon...)
 
 ---
 
