@@ -26,7 +26,7 @@ IIT_Hyderbad_Prahladha_Pappuri_MovieRecommendation_System/
 
 1️⃣ **Clone the repository**  
 ```
-git clone https://github.com/yourusername/MovieRecommendationSystem.git
+git clone https://github.com/Prahladha09/Movie-recommender.git
 cd MovieRecommendationSystem
 ```
 
