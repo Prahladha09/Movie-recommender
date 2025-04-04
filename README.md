@@ -7,7 +7,7 @@ The **Movie Recommendation System** suggests movies to users based on their pref
 
 ## 📂 **Project Structure**  
 ```
-CollegeName_FullName_MovieRecommendation/
+IIT_Hyderbad_Prahladha_Pappuri_MovieRecommendation_System/
 ├── src/
 │   ├── main.py  # Main script to run the recommendation system
 │   ├── recommend.py  # Functions for recommending movies
